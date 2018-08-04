@@ -1,0 +1,16 @@
+{
+	"name": "No Camera Shake",
+	"description": "Eliminates all camera shake from the game.",
+	"changeNote": "",
+	"author": "Jdella",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "NoCameraShake",
+	"revisionNumber": 95365,
+	"snapshotId": 17742
+}
